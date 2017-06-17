@@ -15,7 +15,7 @@ here = path.abspath(path.dirname(__file__))
 
 setup(
     name="pylog",
-    version="0.0.1",
+    version="1.0.0",
     description="Simple Python logging library",
     url="https://github.com/jimlawton/pylog",
     author="Jim Lawton",
